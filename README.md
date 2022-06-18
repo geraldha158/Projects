@@ -1,2 +1,1 @@
-# Projects
-Projects for TheOdinProject.com
+First website project from Odin Project.
